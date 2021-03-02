@@ -34,7 +34,7 @@ ___
 **Clone This**
 ```bash
 > git clone https://github.com/KCG-BOT/ck-wp-bot
-> cd KCG-BOT
+> cd ck-wp-bot
 ```
 **Continue with**
 ```bash
